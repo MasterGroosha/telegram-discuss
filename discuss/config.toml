@@ -1,4 +1,4 @@
-baseurl = "https://mastergroosha.github.io/telegram-discuss/"
+baseurl = "https://mastergroosha.github.io/telegram-discuss"
 languageCode = "en-us"
 title = "Comments"
 theme = "onedly"
