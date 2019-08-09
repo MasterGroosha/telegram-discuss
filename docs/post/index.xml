@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Comments</title>
+    <link>https://mastergroosha.github.io/telegram-discuss/post/</link>
+    <description>Recent content in Sections on Comments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mastergroosha.github.io/telegram-discuss/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Telegram Comments Widget</title>
+      <link>https://mastergroosha.github.io/telegram-discuss/post/about/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/telegram-discuss/post/about/</guid>
+      <description>You can comment this webpage using your Telegram account, yay!
+Please visit Comments.App for details how to use this.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+[submodule "discuss/themes/onedly"]
+	path = discuss/themes/onedly
+	url = https://github.com/cdeck3r/OneDly-Theme.git
